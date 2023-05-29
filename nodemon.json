@@ -1,0 +1,8 @@
+{
+  "watch": [
+    "*.ts",
+    "src"
+  ],
+  "ext": "ts",
+  "exec": "pnpm start"
+}
